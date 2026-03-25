@@ -2,14 +2,14 @@
 <h1 align="center">Hi 👋, I'm John Malek</h1>
 <h3 align="center">Software Engineer</h3>
 
-- 🌱 I’m currently learning **Backend**
+- 🌱 I’m currently learning **Data Science and Business Analytics**
 
 - 📫 How to reach me **johnmalek54@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/https://twitter.com/malekjohn1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/malekjohn1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/john-malek-8b666b217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/john-malek-8b666b217/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/john-malek-garang-8b666b217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/john-malek-garang-8b666b217/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
