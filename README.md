@@ -5,7 +5,7 @@
 - 💻 Background in web development and software engineering
 - 📫 Reach me at **johnmalek54@gmail.com**
 
-I'm a software engineer moving into data science, with hands-on experience across both worlds — from freelance web development to building and tuning machine learning models (gradient boosting, stacking ensembles, credit scoring with explainability). I enjoy the full stack of a data problem, from writing clean, defensive code to translating a business question into a working model. I like staying current on where AI is headed.
+Software engineer and data analyst with 2+ years of hands-on experience in web and backend development. I am now pursuing a MSc in Data Science and Business Analytics. I work mostly with Python, Java and the Spring Framework. I am building on this foundation in statistics, machine learning, artificial intelligence and natural language processing through coursework and projects.
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
